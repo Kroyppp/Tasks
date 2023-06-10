@@ -8,4 +8,3 @@ def square(num1):
    return result
 
 print(square(num1))
-#gggggggggggggggrtt
