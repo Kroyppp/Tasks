@@ -4,6 +4,8 @@
 номер месяца (от 1 до 12), и возвращающую время года,
 которому этот месяц принадлежит (зима, весна, лето или осень).
 
+--------------------------------------------------------------------
+
 Write a season function that takes 1 argument −
 month number (from 1 to 12), and returning the time of year,
 to which this month belongs (winter, spring, summer or autumn).

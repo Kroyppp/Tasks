@@ -8,6 +8,8 @@
 Написать функцию bank, принимающая аргументы a и years,
 и возвращающую сумму, которая будет на счету пользователя.
 
+---------------------------------------------------------------------------
+
 The user makes a deposit in the amount of a rubles for a period
 for years under 10% per annum (each year the size of its
 contribution is increased by 10%. This money is added

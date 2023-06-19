@@ -3,6 +3,8 @@
 Написать функцию is_prime, принимающую 1 аргумент — число от 0
 до 1000, и возвращающую True, если оно простое, и False - иначе.
 
+-----------------------------------------------------------------------
+
 Write a function is_prime that takes 1 argument - a number from 0
 up to 1000, and returning True if it is prime, and False otherwise.
 '''
