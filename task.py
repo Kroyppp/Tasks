@@ -9,10 +9,11 @@ n×n, заполненную числами
 n=5)
 '''
 
-#number = (int (input ('Введите число: '))**2) + 1
-number = (5**2) + 1
+# number = (int (input ('Введите число: '))**2) + 1
+number = (2**2) + 1
 list_rn = list (range (1, number))
 print (list_rn)
+# num_arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 num_arr = [[1, 2, 3],
            [4, 5, 6],
            [7, 8, 9]
